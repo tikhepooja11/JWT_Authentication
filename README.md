@@ -1,4 +1,4 @@
-# fb-assignment-Rajat
+# fb-assignment
 
 Postman APIs : https://drive.google.com/file/d/1xgg4uCYBp9oXDEsuvJzK4VyA6GR9js1e/view?usp=sharing
 
